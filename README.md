@@ -149,6 +149,17 @@ Here’s a simple guide [how you flash OpenWRT onto an SD card:](https://www.how
 
 In general, for the other steps beyond the scope of this project, please, refer to the [Nym docs](https://nymtech.net/docs)
 
+### Pre-built NYMBox Images
+
+Requirements:
+8GB SD card
+Raspberry Pi 4 / Raspberry Pi 400 / Raspberry Pi CM4
+or
+FriendlyELEC R2S / R2C / R4S / R5S
+
+[NYMbox Raspberry Pi 4 - 64bit](https://nwbroadbandalliance.org/images/openwrt-22.03.0-rc4-bcm27xx-bcm2711-rpi-4-nymbox.img.tar.gz)
+[NYMbox rk3328](https://nwbroadbandalliance.org/images/friendlywrt-rk3328-20220125-NYMbox.img.tar.gz)
+
 
 
 
